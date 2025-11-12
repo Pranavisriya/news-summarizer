@@ -1,0 +1,18 @@
+# Modern stack (Python >=3.12)
+langgraph>=0.2.34
+langchain>=0.2.14
+langchain-core>=0.2.41
+langchain-openai>=0.2.0
+openai>=1.51.0
+pydantic>=2.7.0
+typing-extensions>=4.9.0
+newsapi-python>=0.2.7
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+ipython>=8.17.0
+zstandard==0.25.0
+python-dotenv
+tavily>=0.1.5
+fastapi
+uvicorn[standard]

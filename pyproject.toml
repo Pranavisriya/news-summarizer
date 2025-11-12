@@ -1,0 +1,27 @@
+[project]
+name = "news"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "fastapi>=0.121.1",
+    "ipykernel>=7.1.0",
+    "ipython>=8.17.0",
+    "langchain>=0.2.14",
+    "langchain-core>=0.2.41",
+    "langchain-openai>=0.2.0",
+    "langgraph>=0.2.34",
+    "lxml>=4.9.0",
+    "newsapi-python>=0.2.7",
+    "openai>=1.51.0",
+    "pydantic>=2.7.0",
+    "python-dotenv>=1.2.1",
+    "requests>=2.31.0",
+    "streamlit>=1.51.0",
+    "tavily>=0.1.5",
+    "typing-extensions>=4.9.0",
+    "uvicorn[standard]>=0.38.0",
+    "zstandard==0.25.0",
+]
